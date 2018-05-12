@@ -10,7 +10,7 @@ Once you get into the workforce, building out comps that reflect the designer's 
 
 ### Things to Note
 
- - We have not provided you with any images assets, nor beginning HTML/CSS files. You will have to find assets on your own according to the guidelines below.
+* We have not provided you with any images assets, nor beginning HTML/CSS files. You will have to find assets on your own according to the guidelines below.
 
 ### Creative License
 
@@ -20,14 +20,14 @@ Your HTML/CSS layout MUST look like the image below, but your creativity can inc
 * Images
 * Icons
 * Color palette, but ONLY if you select a complementary palette. We highly encourage you to visit sites like:
-  - [material palette](https://www.materialpalette.com/)
-  - [coolors](https://coolors.co/)
-  - [color-hex](http://www.color-hex.com/color-palettes/)
+  * [material palette](https://www.materialpalette.com/)
+  * [coolors](https://coolors.co/)
+  * [color-hex](http://www.color-hex.com/color-palettes/)
 
 ### Base Requirements
 
-  - Basic static site setup with `index.html` and `styles.css`
-  - Submit your work through a PR
+* Basic static site setup with `index.html` and `styles.css`
+* Submit your work through a PR
 
 ---
 

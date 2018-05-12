@@ -1,0 +1,91 @@
+body {
+	display: grid;
+	width: 100vw;
+	height: 100vh;
+	grid-template-columns: repeat(5, 20%);
+	grid-template-rows: repeat(3, 33.3333333%);
+	justify-content: start;
+	color: white;
+	font-family: "Geneva";
+}
+
+h1 {
+	text-align: left;
+}
+
+.arrow-left {
+	image: url("https://image.flaticon.com/icons/svg/15/15097.svg");
+}
+
+article {
+	text-align: center;
+	padding: 20%;
+	padding-top: 60%;
+}
+
+section {
+	grid-column-start: 1;
+	grid-column-end: 3;
+	grid-row: 1 / 2;
+	background-color: #60b980;
+	padding: 10%;
+	text-align: left;
+	font-size: 10px;
+}
+
+p {
+	font-size: 12px;
+}
+
+main {
+	grid-column: 4 / 6;
+	grid-row: 1 / 4;
+	background-color: pink;
+	background-image: url("https://pbs.twimg.com/profile_images/455732007532625921/S-DaQxQe.jpeg");
+	background-size: cover;
+}
+
+.big-photo {
+}
+
+.profile {
+	grid-column: 3 / 4;
+	grid-row: 1 / 2;
+	background-color: #f3a13a;
+}
+
+.experience {
+	grid-column: 1 / 2;
+	grid-row: 2 / 3;
+	background-color: #3e8abf;
+}
+
+.education {
+	grid-column: 2 / 3;
+	grid-row: 2 / 3;
+	background-color: #e16451;
+}
+
+.blog {
+	grid-column: 3 / 4;
+	grid-row: 2 / 3;
+	background-color: #60b980;
+}
+
+.social-menu {
+	grid-column: 1 / 2;
+	grid-row: 3 / 4;
+	background-color: #f3a13a;
+}
+
+.contact {
+	grid-column: 2 / 3;
+	grid-row: 3 / 4;
+	background-color: #3e8abf;
+}
+
+.portfolio {
+	grid-column: 3 / 4;
+	grid-row: 3 / 4;
+	background-color: #f3a13a;
+}
